@@ -1,0 +1,17 @@
+.User {
+  background-color: aliceblue;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  position: relative;
+}
+
+.User__header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.User__header-container h4 {
+  font-size: 0.7rem;
+  color: rgb(207, 40, 96);
+}
